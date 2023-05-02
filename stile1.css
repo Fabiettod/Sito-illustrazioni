@@ -1,0 +1,285 @@
+header{
+    max-width: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2pt;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #EAE6E6;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header a{
+    margin-right: 120px;
+    font-size: 20pt;
+    font-style: bold;
+}
+
+header h1{
+    border: 2pt;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 8pt;
+    font-size: 50pt;
+}
+
+.nav1{
+    margin-left: 50px;
+}
+
+main{
+    max-width: none;
+}
+
+.preview1, .preview2{
+    display: inline-flex;
+}
+
+.tasti{
+    float: right;
+    margin-top: 50px;
+    margin-right: 120px;
+}
+
+main img{
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px grey;
+    z-index: 1;
+}
+
+body{
+    background-color: #F2EFE8;
+}
+
+.camilo p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: 50px;
+    font-size: 50pt;
+}
+
+.huinca p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: 310px;
+    font-size: 50pt;
+}
+
+.tim p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: 50px;
+    font-size: 50pt;
+}
+
+.lahan p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1275px;
+    margin-top: 310px;
+    font-size: 50pt;
+}
+
+.karlotta p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1530px;
+    margin-top: 50px;
+    font-size: 50pt;
+}
+
+.freier p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1565px;
+    margin-top: 310px;
+    font-size: 50pt;
+}
+
+.xohana p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: 410px;
+    font-size: 50pt;
+}
+
+.herrera p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 978px;
+    margin-top: 670px;
+    font-size: 50pt;
+}
+
+.linn p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1290px;
+    margin-top: 410px;
+    font-size: 50pt;
+}
+
+.fritz p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1290px;
+    margin-top: 670px;
+    font-size: 50pt;
+}
+
+.la p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1600px;
+    margin-top: 410px;
+    font-size: 50pt;
+}
+
+.boca p{
+    background-image: url("C:\Users\fabie\Desktop\Sito illustrazioni\immagini\Camilo.png" );
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-left: 1580px;
+    margin-top: 670px;
+    font-size: 50pt;
+}
+
+main hr{
+    float: right;
+    z-index: -1;
+}
+
+.lin1 hr{
+    position: relative;
+    bottom: 550px;
+    width: 1600px;
+    border-bottom: 3px solid black;
+}
+
+.lin2 hr{
+    transform: rotate(-90deg);
+  transform-origin: left top;
+  position: relative;
+  top: 35px;
+  right: 1000px;
+  width: 600px;
+  border-bottom: 3px solid black;
+}
+
+.cop1 h1{
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+
+.cop2 h1{
+    position: relative;
+    left: 300px;
+    bottom: 40px;
+}
+
+.cop3 h1{
+    transform: rotate(-90deg);
+  transform-origin: left top;
+  position: relative;
+  left: 100px;
+  top: 300px
+}
+
+.cop4 h1{
+    transform: rotate(-90deg);
+  transform-origin: left top;
+  position: relative;
+  left: 180px;
+  top: 130px
+}
+
+main h1{
+    font-size: 70pt;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    border: 2pt;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #EAE6E6;
+    margin-top: 220px;
+  }
+  
+footer p{
+    text-align: center;
+    font-size: 15pt;
+  }
+
+  .footp{
+    margin-top: 80px;
+  }
